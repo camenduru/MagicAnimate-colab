@@ -21,5 +21,7 @@ https://showlab.github.io/magicanimate/
 
 ## Output
 
+https://github.com/camenduru/MagicAnimate-colab/assets/54370274/473b45b6-8cf1-41c2-9f0b-3edf202651bf
+
 ## Sponsor
 https://modelslab.com
