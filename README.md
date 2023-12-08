@@ -9,7 +9,7 @@
 | Colab | Info
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/MagicAnimate-colab/blob/main/MagicAnimate_colab.ipynb) | MagicAnimate_colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/MagicAnimate-colab/blob/main/DensePose_colab.ipynb) | DensePose_colab (Thanks to [DensePose](https://github.com/facebookresearch/detectron2/tree/main/projects/DensePose) ❤)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/MagicAnimate-colab/blob/main/DensePose_colab.ipynb) | DensePose_colab (Thanks to [DensePose](https://github.com/facebookresearch/detectron2/tree/main/projects/DensePose) ❤ Gradio App by [Flode-Labs](https://github.com/Flode-Labs/vid2densepose) ❤)
 
 ## Main Repo
 https://github.com/magic-research/magic-animate <br />
