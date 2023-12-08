@@ -9,9 +9,10 @@
 | Colab | Info
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/MagicAnimate-colab/blob/main/MagicAnimate_colab.ipynb) | MagicAnimate_colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/MagicAnimate-colab/blob/main/DensePose_colab.ipynb) | DensePose_colab (Thanks to [DensePose](https://github.com/facebookresearch/detectron2/tree/main/projects/DensePose) ❤)
 
 ## Main Repo
-https://github.com/magic-research/magic-animate
+https://github.com/magic-research/magic-animate <br />
 
 ## Paper
 https://arxiv.org/abs/2311.16498
